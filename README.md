@@ -1,4 +1,4 @@
-![Дарья Данилко — инструменты для бизнеса](assets/cover.png)
+![Дарья Данилко — инструменты для бизнеса](assets/cover.jpg)
 
 # Дарья Данилко
 
@@ -150,7 +150,7 @@
 
 🇬🇧 English version (Click to expand)
 
-![Daria Danilko — Business Tooling & Automation](assets/cover.png)
+![Daria Danilko — Business Tooling & Automation](assets/cover.jpg)
 
 # Daria Danilko
 
