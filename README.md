@@ -150,7 +150,6 @@
 
 🇬🇧 English version (Click to expand)
 
-![Daria Danilko — Business Tooling & Automation](assets/cover.jpg)
 
 # Daria Danilko
 
