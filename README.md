@@ -103,7 +103,7 @@
 - **❗ Проблема:** Стандартные сервисы сравнивали только однотонные заливки. На пестрых фонах читаемость оценивали на глаз: команда раз за разом возвращала макеты на доработку, а бизнес всё равно получал жалобы на нечитаемый текст.
 - **🛠 Что делает инструмент:** Утилита проверяет наложение любых объектов (текста или графики) на сложный фон. Он оценивает контраст по нескольким алгоритмам, учитывает тени и подсвечивает проблемные зоны.
 - **✅ Результат:** Дизайнер проверяет макет до разработки. Игроки получают комфортный пользовательский опыт, а бизнес не платит за лишние круги правок.
- 🌐 Демо работает в браузере: [ссылка на демо]
+ 🌐 Демо работает в браузере: [[demo link](https://daksaportfolio2026-b2d878.gitlab.io/gift/)]
 <br>
 
 ---
@@ -256,7 +256,7 @@ Building custom tools tailored to your operational needs. Teams typically bring 
 - **❗ Problem:** Standard accessibility tools only evaluated flat, solid-color surfaces. On vibrant gaming backgrounds, readability was judged by eye, leading to tedious revision loops and player legibility complaints post-launch.
 - **🛠 How it works:** Scanning complex text and asset overlays against dynamic, noisy backgrounds. Running multi-algorithm contrast scoring, factoring in drop shadows, and pinpointing illegible hotspots.
 - **✅ Result:** Enabling designers to validate asset clarity before handing off to developers. Delivering comfortable readability for players while cutting unnecessary rework cycles.
-🌐 Live web demo: [demo link]
+🌐 Live web demo: [[demo link](https://daksaportfolio2026-b2d878.gitlab.io/gift/)]
 <br>
 
 ---
