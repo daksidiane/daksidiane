@@ -134,7 +134,7 @@
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | ⚙️ Автоматизировала повторяющиеся операции дизайнеров                      | Скорость работы выросла: пул типовых задач теперь закрывается **на 60% быстрее.**                                                                            |
 | 📐 Создала калькулятор сроков для задач с высоким уровнем неопределенности | Сроки на UI-часть прогнозируются с точностью **до 90%**. Сам калькулятор универсален — бизнес может раскатать эту систему на остальные этапы работы с фичей. |
-| 💵 Собрала RAG систему для проверки работы дизайнера.                      | Качественный фидбек быстрее **в 1,5 раза**, стоимость внедрения **на 75%** ниже аналогов                                                                     |
+| 💵 Собрала RAG систему для проверки работы дизайнера.                      | Качественный фидбек быстрее **в 1,5 раза**, **ежемесячные расходы на 75% ниже** аналогов благодаря автономной архитектуре (оплата API вместо лицензий за рабочее место)                                                                     |
 
 
 
@@ -287,7 +287,7 @@ With a 12-year background in casual mobile/web game UI/UX, I build internal syst
 | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ⚙️ **Automating repetitive design workflows**                     | Accelerating everyday asset production, enabling teams to complete recurring tasks **60% faster**.                                                 |
 | 📐 **Developing an estimation engine for high-uncertainty tasks** | Achieving **up to 90% timeline predictability** across complex UI features—now adaptable to broader cross-functional pipelines.                    |
-| 💵 **Implementing a RAG system for design QA review**             | Delivering actionable quality feedback **1.5× faster** while cutting rollout and operational costs by **75%** compared to commercial alternatives. |
+| 💵 **Implementing a RAG system for design QA review**             | **1.5x faster** high-quality feedback and **75% lower monthly costs** than alternatives, achieved through a standalone architecture (paying for API usage rather than per-seat licenses). |
 
 
 ---
