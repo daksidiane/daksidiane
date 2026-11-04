@@ -53,6 +53,16 @@
 
 
 
+### 💬 Чат-бот ВКонтакте для бьюти-мастера
+ ![Переписка ВКонтакте: гайд, прайс и запись](assets/online-faq-booking.gif) 
+
+- **❗ Проблема:** Мастер отвечал клиентам вручную. Одинаковые вопросы о цене отнимали время, читатели постов не подписывались на группу, а заявки на процедуры терялись в переписке.
+- **🛠 Что делает инструмент:** Бот выдает гайд по уходу в обмен на подписку. Распознает вопросы о стоимости и показывает прайс. Оформляет запись прямо в диалоге: фиксирует услугу, мастера и время. Через сутки приглашает на коррекцию. Если нужен живой человек — переводит диалог на мастера.
+- **✅ Результат:** Мастер не отвлекается на рутинные ответы. Инструмент автоматически растит базу подписчиков и формирует готовые заявки. Клиенты получают цены и бронируют время без ожидания.
+<br>
+
+
+
 ### 📋 Таск-трекер в Telegram с голосовым вводом
 ![Карточка задачи: кому, что, к какому часу](assets/task-bot.gif)
 
@@ -202,6 +212,16 @@ Building custom tools tailored to your operational needs. Teams typically bring 
 - **🛠 How it works:** Connecting directly to the internal product database to parse incoming requests, recommend optimal matching items, and book service appointments completely autonomously.
 - **✅ Result:** Providing 24/7 client response times and driving customer conversations all the way to checkout, freeing managers to focus exclusively on complex edge cases.
 📁 [`shop-assistant`](https://github.com/daksidiane/shop-assistant)
+<br>
+
+
+
+### 💬 VK Chatbot for a Beauty Specialist
+![VK Chat: Care Guide, Price List, and Booking](assets/online-faq-booking.gif)
+
+- **❗ Problem:** The specialist answered clients by hand. Identical price questions ate into the workday, readers of the posts never subscribed to the community, and procedure requests got lost in the chat.
+- **🛠 How it works:** Sending a care guide in exchange for a subscription, recognizing price questions and showing the price list, and booking the appointment right in the dialog with the service, specialist, and time. A day later it invites the client back for a touch-up, and hands the conversation to the specialist when a live person is needed.
+- **✅ Result:** Keeping the specialist off routine replies while the tool grows the subscriber base and turns chats into ready bookings. Clients get prices and reserve a time without waiting.
 <br>
 
 
