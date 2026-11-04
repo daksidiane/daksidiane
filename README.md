@@ -39,6 +39,8 @@
 - **🛠  Что делает инструмент:** Калькулятор считает стоимость по актуальной базе данных на основе выбранных опций и собирает PDF-документ с коммерческим предложением.
 - **✅ Результат:** Команда собирает сметы без ручного ввода цен и сразу получает оформленный документ. Бизнес сохраняет историю расчетов и скидок по каждому клиенту. 
  📁 [`estimate-calculator`](https://github.com/daksidiane/estimate-calculator)
+
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-EDE8F7?style=flat-square" height="18"> <img alt="Electron" src="https://img.shields.io/badge/Electron-EDE8F7?style=flat-square" height="18"> <img alt="Excel" src="https://img.shields.io/badge/Excel-EDE8F7?style=flat-square" height="18">
 <br>
 
 
@@ -49,6 +51,8 @@
 - **🛠 Что делает инструмент:** Бот работает с клиентами, учитывая базу данных заказчика. Он анализирует запрос, советует лучшие варианты из ассортимента и записывает на услуги без участия человека. 
 - **✅ Результат.** Клиенты получают ответы круглосуточно, часть диалогов бот самостоятельно доводит до покупки. Менеджеры подключаются только к сложным и нестандартным задачам. 
  📁 [`shop-assistant`](https://github.com/daksidiane/shop-assistant)
+
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-EDE8F7?style=flat-square" height="18"> <img alt="Express" src="https://img.shields.io/badge/Express-EDE8F7?style=flat-square" height="18"> <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI_API-EDE8F7?style=flat-square" height="18"> <img alt="VK Long Poll API" src="https://img.shields.io/badge/VK_Long_Poll_API-EDE8F7?style=flat-square" height="18">
 <br>
 
 
@@ -59,6 +63,8 @@
 - **❗ Проблема:** Мастер отвечал клиентам вручную. Одинаковые вопросы о цене отнимали время, читатели постов не подписывались на группу, а заявки на процедуры терялись в переписке.
 - **🛠 Что делает инструмент:** Бот выдает гайд по уходу в обмен на подписку. Распознает вопросы о стоимости и показывает прайс. Оформляет запись прямо в диалоге: фиксирует услугу, мастера и время. Через сутки приглашает на коррекцию. Если нужен живой человек — переводит диалог на мастера.
 - **✅ Результат:** Мастер не отвлекается на рутинные ответы. Инструмент автоматически растит базу подписчиков и формирует готовые заявки. Клиенты получают цены и бронируют время без ожидания.
+
+<img alt="Python" src="https://img.shields.io/badge/Python-EDE8F7?style=flat-square" height="18"> <img alt="SQLite" src="https://img.shields.io/badge/SQLite-EDE8F7?style=flat-square" height="18"> <img alt="VK Long Poll API" src="https://img.shields.io/badge/VK_Long_Poll_API-EDE8F7?style=flat-square" height="18"> <img alt="Google Apps Script" src="https://img.shields.io/badge/Google_Apps_Script-EDE8F7?style=flat-square" height="18">
 <br>
 
 
@@ -70,6 +76,8 @@
 - **🛠 Что делает инструмент:** Бот принимает аудиосообщения, переводит их в текст и создает задачи с простым управлением. Бот следит за сроками, напоминает о дедлайнах и показывает каждому сотруднику только его список дел. Администратор контролирует общую картину.
 - **✅ Результат:** Бизнес получает прозрачную систему контроля вместо записей на доске. Ни одна задача не теряется из-за спешки, у каждого поручения есть ответственный и срок.
  📁 [`task-bot`](https://github.com/daksidiane/task-bot)
+
+<img alt="Python" src="https://img.shields.io/badge/Python-EDE8F7?style=flat-square" height="18"> <img alt="Telegram Bot API" src="https://img.shields.io/badge/Telegram_Bot_API-EDE8F7?style=flat-square" height="18"> <img alt="Whisper" src="https://img.shields.io/badge/Whisper-EDE8F7?style=flat-square" height="18"> <img alt="Google Sheets" src="https://img.shields.io/badge/Google_Sheets-EDE8F7?style=flat-square" height="18">
 <br>
 
 
@@ -81,6 +89,8 @@
 - **🛠 Что делает инструмент:** Бот принимает текстовые сообщения с приходом/расходом и разносит их по категориям. Формирует выписку за выбранный период. Инструмент отслеживает заданные лимиты трат и цели накоплений.
 - **✅ Результат:** Владелец ведет общую статистику по всем счетам прямо в мессенджере. Он контролирует бюджет и прогресс по цели без необходимости заполнять ячейки таблиц с экрана телефона.
  📁 [`wallet-bot`](https://github.com/daksidiane/wallet-bot)
+
+<img alt="PHP" src="https://img.shields.io/badge/PHP-EDE8F7?style=flat-square" height="18"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-EDE8F7?style=flat-square" height="18"> <img alt="Telegram Bot API" src="https://img.shields.io/badge/Telegram_Bot_API-EDE8F7?style=flat-square" height="18">
 <br>
 
 
@@ -92,6 +102,8 @@
 - **🛠 Что делает инструмент:** Бот сканирует 50 источников за 15 минут. Он отсекает рекламу и ненужные темы, а в мессенджер присылает только короткую выжимку целевых публикаций со ссылками на оригинал.
 - **✅ Результат:** Заказчик получает выжимку новостей строго по своему профилю без информационного шума за несколько минут.
  📁 [`site-monitor`](https://github.com/daksidiane/site-monitor)
+
+<img alt="Python" src="https://img.shields.io/badge/Python-EDE8F7?style=flat-square" height="18"> <img alt="SQLite" src="https://img.shields.io/badge/SQLite-EDE8F7?style=flat-square" height="18"> <img alt="Telegram Bot API" src="https://img.shields.io/badge/Telegram_Bot_API-EDE8F7?style=flat-square" height="18"> <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI_API-EDE8F7?style=flat-square" height="18">
 <br>
 
 
@@ -103,6 +115,8 @@
 - **🛠 Что делает инструмент:** Помощник обрабатывает голос и команды напрямую на устройстве пользователя. Он запускает системные программы, открывает ресурсы и следит за временем работы.
 - **✅ Результат:** Владелец получает полностью автономного «Джарвиса» для управления компьютером. Данные не уходят на чужие серверы, а сам помощник стабильно работает даже на слабых ноутбуках.
  📁 [`voice-assistant`](https://github.com/daksidiane/voice-assistant)
+
+<img alt="Python" src="https://img.shields.io/badge/Python-EDE8F7?style=flat-square" height="18"> <img alt="Vosk" src="https://img.shields.io/badge/Vosk-EDE8F7?style=flat-square" height="18"> <img alt="Windows SAPI" src="https://img.shields.io/badge/Windows_SAPI-EDE8F7?style=flat-square" height="18"> <img alt="Edge TTS" src="https://img.shields.io/badge/Edge_TTS-EDE8F7?style=flat-square" height="18">
 <br>
 
 
@@ -114,6 +128,8 @@
 - **🛠 Что делает инструмент:** Утилита проверяет наложение любых объектов (текста или графики) на сложный фон. Он оценивает контраст по нескольким алгоритмам, учитывает тени и подсвечивает проблемные зоны.
 - **✅ Результат:** Дизайнер проверяет макет до разработки. Игроки получают комфортный пользовательский опыт, а бизнес не платит за лишние круги правок.
  🌐 Демо работает в браузере: [[demo link](https://daksaportfolio2026-b2d878.gitlab.io/gift/)]
+
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-EDE8F7?style=flat-square" height="18"> <img alt="Canvas" src="https://img.shields.io/badge/Canvas-EDE8F7?style=flat-square" height="18"> <img alt="WCAG" src="https://img.shields.io/badge/WCAG-EDE8F7?style=flat-square" height="18">
 <br>
 
 ---
@@ -201,6 +217,8 @@ Building custom tools tailored to your operational needs. Teams typically bring 
 - **🛠 How it works:** Calculating costs instantly against a live product database based on selected parameters, then automatically compiling a polished commercial PDF proposal.
 - **✅ Result:** Generating quotes in seconds without manual pricing entries. The business retains a clean audit trail of estimates, client histories, and applied discounts.
 📁 [`estimate-calculator`](https://github.com/daksidiane/estimate-calculator)
+
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-EDE8F7?style=flat-square" height="18"> <img alt="Electron" src="https://img.shields.io/badge/Electron-EDE8F7?style=flat-square" height="18"> <img alt="Excel" src="https://img.shields.io/badge/Excel-EDE8F7?style=flat-square" height="18">
 <br>
 
 
@@ -212,6 +230,8 @@ Building custom tools tailored to your operational needs. Teams typically bring 
 - **🛠 How it works:** Connecting directly to the internal product database to parse incoming requests, recommend optimal matching items, and book service appointments completely autonomously.
 - **✅ Result:** Providing 24/7 client response times and driving customer conversations all the way to checkout, freeing managers to focus exclusively on complex edge cases.
 📁 [`shop-assistant`](https://github.com/daksidiane/shop-assistant)
+
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-EDE8F7?style=flat-square" height="18"> <img alt="Express" src="https://img.shields.io/badge/Express-EDE8F7?style=flat-square" height="18"> <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI_API-EDE8F7?style=flat-square" height="18"> <img alt="VK Long Poll API" src="https://img.shields.io/badge/VK_Long_Poll_API-EDE8F7?style=flat-square" height="18">
 <br>
 
 
@@ -222,6 +242,8 @@ Building custom tools tailored to your operational needs. Teams typically bring 
 - **❗ Problem:** The specialist answered clients by hand. Identical price questions ate into the workday, readers of the posts never subscribed to the community, and procedure requests got lost in the chat.
 - **🛠 How it works:** Sending a care guide in exchange for a subscription, recognizing price questions and showing the price list, and booking the appointment right in the dialog with the service, specialist, and time. A day later it invites the client back for a touch-up, and hands the conversation to the specialist when a live person is needed.
 - **✅ Result:** Keeping the specialist off routine replies while the tool grows the subscriber base and turns chats into ready bookings. Clients get prices and reserve a time without waiting.
+
+<img alt="Python" src="https://img.shields.io/badge/Python-EDE8F7?style=flat-square" height="18"> <img alt="SQLite" src="https://img.shields.io/badge/SQLite-EDE8F7?style=flat-square" height="18"> <img alt="VK Long Poll API" src="https://img.shields.io/badge/VK_Long_Poll_API-EDE8F7?style=flat-square" height="18"> <img alt="Google Apps Script" src="https://img.shields.io/badge/Google_Apps_Script-EDE8F7?style=flat-square" height="18">
 <br>
 
 
@@ -233,6 +255,8 @@ Building custom tools tailored to your operational needs. Teams typically bring 
 - **🛠 How it works:** Transcribing incoming voice messages into structured tasks with frictionless one-click actions. Managing deadlines, pinging assignees, and serving personal to-do lists while granting admins full operational visibility.
 - **✅ Result:** Replacing messy physical boards with an accountable, transparent workflow where every action item has a designated owner and a due date.
 📁 [`task-bot`](https://github.com/daksidiane/task-bot)
+
+<img alt="Python" src="https://img.shields.io/badge/Python-EDE8F7?style=flat-square" height="18"> <img alt="Telegram Bot API" src="https://img.shields.io/badge/Telegram_Bot_API-EDE8F7?style=flat-square" height="18"> <img alt="Whisper" src="https://img.shields.io/badge/Whisper-EDE8F7?style=flat-square" height="18"> <img alt="Google Sheets" src="https://img.shields.io/badge/Google_Sheets-EDE8F7?style=flat-square" height="18">
 <br>
 
 
@@ -244,6 +268,8 @@ Building custom tools tailored to your operational needs. Teams typically bring 
 - **🛠 How it works:** Ingesting simple text inputs of expenses and earnings, categorizing line items on the fly, generating period statements, and alerting users when budget limits or savings goals are reached.
 - **✅ Result:** Keeping books up-to-date straight from a messenger interface. Monitoring burn rate and savings targets without wrestling with formula sheets on mobile devices.
 📁 [`wallet-bot`](https://github.com/daksidiane/wallet-bot)
+
+<img alt="PHP" src="https://img.shields.io/badge/PHP-EDE8F7?style=flat-square" height="18"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-EDE8F7?style=flat-square" height="18"> <img alt="Telegram Bot API" src="https://img.shields.io/badge/Telegram_Bot_API-EDE8F7?style=flat-square" height="18">
 <br>
 
 
@@ -255,6 +281,8 @@ Building custom tools tailored to your operational needs. Teams typically bring 
 - **🛠 How it works:** Crawling up to 50 target platforms every 15 minutes, stripping out promotional clutter, and dispatching concise, actionable summaries with direct source links straight to Telegram.
 - **✅ Result:** Delivering clean, curated domain intelligence in minutes while filtering out 100% of information noise.
 📁 [`site-monitor`](https://github.com/daksidiane/site-monitor)
+
+<img alt="Python" src="https://img.shields.io/badge/Python-EDE8F7?style=flat-square" height="18"> <img alt="SQLite" src="https://img.shields.io/badge/SQLite-EDE8F7?style=flat-square" height="18"> <img alt="Telegram Bot API" src="https://img.shields.io/badge/Telegram_Bot_API-EDE8F7?style=flat-square" height="18"> <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI_API-EDE8F7?style=flat-square" height="18">
 <br>
 
 
@@ -266,6 +294,8 @@ Building custom tools tailored to your operational needs. Teams typically bring 
 - **🛠 How it works:** Processing voice commands and speech entirely on-device, launching desktop applications, navigating system resources, and managing working sessions offline.
 - **✅ Result:** Equipping workstations with an autonomous, privacy-first desktop copilot that never leaks data to third-party clouds and runs smoothly even on low-spec hardware.
 📁 [`voice-assistant`](https://github.com/daksidiane/voice-assistant)
+
+<img alt="Python" src="https://img.shields.io/badge/Python-EDE8F7?style=flat-square" height="18"> <img alt="Vosk" src="https://img.shields.io/badge/Vosk-EDE8F7?style=flat-square" height="18"> <img alt="Windows SAPI" src="https://img.shields.io/badge/Windows_SAPI-EDE8F7?style=flat-square" height="18"> <img alt="Edge TTS" src="https://img.shields.io/badge/Edge_TTS-EDE8F7?style=flat-square" height="18">
 <br>
 
 
@@ -277,6 +307,8 @@ Building custom tools tailored to your operational needs. Teams typically bring 
 - **🛠 How it works:** Scanning complex text and asset overlays against dynamic, noisy backgrounds. Running multi-algorithm contrast scoring, factoring in drop shadows, and pinpointing illegible hotspots.
 - **✅ Result:** Enabling designers to validate asset clarity before handing off to developers. Delivering comfortable readability for players while cutting unnecessary rework cycles.
 🌐 Live web demo: [[demo link](https://daksaportfolio2026-b2d878.gitlab.io/gift/)]
+
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-EDE8F7?style=flat-square" height="18"> <img alt="Canvas" src="https://img.shields.io/badge/Canvas-EDE8F7?style=flat-square" height="18"> <img alt="WCAG" src="https://img.shields.io/badge/WCAG-EDE8F7?style=flat-square" height="18">
 <br>
 
 ---
