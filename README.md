@@ -53,7 +53,7 @@
 
 
 
-### 💬 Чат-бот ВКонтакте для бьюти-мастера
+### 💬 Чат-бот ВКонтакте с FAQ и записью на прием
  ![Переписка ВКонтакте: гайд, прайс и запись](assets/online-faq-booking.gif) 
 
 - **❗ Проблема:** Мастер отвечал клиентам вручную. Одинаковые вопросы о цене отнимали время, читатели постов не подписывались на группу, а заявки на процедуры терялись в переписке.
@@ -216,7 +216,7 @@ Building custom tools tailored to your operational needs. Teams typically bring 
 
 
 
-### 💬 VK Chatbot for a Beauty Specialist
+### 💬 VK Chatbot with FAQ and client booking
 ![VK Chat: Care Guide, Price List, and Booking](assets/online-faq-booking.gif)
 
 - **❗ Problem:** The specialist answered clients by hand. Identical price questions ate into the workday, readers of the posts never subscribed to the community, and procedure requests got lost in the chat.
