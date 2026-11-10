@@ -63,6 +63,7 @@
 - **❗ Проблема:** Мастер отвечал клиентам вручную. Одинаковые вопросы о цене отнимали время, читатели постов не подписывались на группу, а заявки на процедуры терялись в переписке.
 - **🛠 Что делает инструмент:** Бот выдает гайд по уходу в обмен на подписку. Распознает вопросы о стоимости и показывает прайс. Оформляет запись прямо в диалоге: фиксирует услугу, мастера и время. Через сутки приглашает на коррекцию. Если нужен живой человек — переводит диалог на мастера.
 - **✅ Результат:** Мастер не отвлекается на рутинные ответы. Инструмент автоматически растит базу подписчиков и формирует готовые заявки. Клиенты получают цены и бронируют время без ожидания.
+ 📁 [`online-faq-booking`](https://github.com/daksidiane/online-faq-booking)
 
 <img alt="Python" src="https://img.shields.io/badge/Python-EDE8F7?style=flat-square" height="18"> <img alt="SQLite" src="https://img.shields.io/badge/SQLite-EDE8F7?style=flat-square" height="18"> <img alt="VK Long Poll API" src="https://img.shields.io/badge/VK_Long_Poll_API-EDE8F7?style=flat-square" height="18"> <img alt="Google Apps Script" src="https://img.shields.io/badge/Google_Apps_Script-EDE8F7?style=flat-square" height="18">
 <br>
@@ -242,6 +243,7 @@ Building custom tools tailored to your operational needs. Teams typically bring 
 - **❗ Problem:** The specialist answered clients by hand. Identical price questions ate into the workday, readers of the posts never subscribed to the community, and procedure requests got lost in the chat.
 - **🛠 How it works:** Sending a care guide in exchange for a subscription, recognizing price questions and showing the price list, and booking the appointment right in the dialog with the service, specialist, and time. A day later it invites the client back for a touch-up, and hands the conversation to the specialist when a live person is needed.
 - **✅ Result:** Keeping the specialist off routine replies while the tool grows the subscriber base and turns chats into ready bookings. Clients get prices and reserve a time without waiting.
+📁 [`online-faq-booking`](https://github.com/daksidiane/online-faq-booking)
 
 <img alt="Python" src="https://img.shields.io/badge/Python-EDE8F7?style=flat-square" height="18"> <img alt="SQLite" src="https://img.shields.io/badge/SQLite-EDE8F7?style=flat-square" height="18"> <img alt="VK Long Poll API" src="https://img.shields.io/badge/VK_Long_Poll_API-EDE8F7?style=flat-square" height="18"> <img alt="Google Apps Script" src="https://img.shields.io/badge/Google_Apps_Script-EDE8F7?style=flat-square" height="18">
 <br>
